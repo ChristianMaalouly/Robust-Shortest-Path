@@ -4,7 +4,6 @@ include("cutting_planes.jl")
 include("branch_and_cut.jl")
 include("relaxation_dual.jl")
 include("enhanced_cutting_planes.jl")
-include("enhanced_branch_and_cut.jl")
 include("static.jl")
 
 # Heuristic method
